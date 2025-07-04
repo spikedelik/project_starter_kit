@@ -17,7 +17,7 @@ This launchpad is perfect for:
 *   **Quick Prototypes**: Want to show off an an idea quickly? This gets you a working version in no time.
 *   **Stylish Designs**: If you love modern, clean designs, this kit makes it easy to build them.
 
-It might be **more than you need** for:
+It might be **an overkill or overengineered** for:
 
 *   **Simple Information Websites**: If your website is just a few pages of text and pictures that don't change much, a simpler approach might be easier.
 *   **Behind-the-Scenes Work**: This kit is all about what people *see* and *click on*. If you're building the "engine" of a website that users don't directly interact with, this isn't the right tool.
@@ -35,7 +35,7 @@ Here's how to get started in just **2-3 simple steps**:
     *   **Option B (Manual Download)**: If your AI tool doesn't have a direct "clone" option, you can download the files manually:
         1.  On this GitHub page, look for a green button that says `Code`.
         2.  Click on it, and then select `Download ZIP`.
-        3.  Once downloaded, unzip the file. You'll get a folder like `your-repo-name-main`. Rename this folder to whatever you want your project to be called (e.g., `my-awesome-website`).
+        3.  Once downloaded, unzip the file. You'll get a folder like `project_starter_kit-main`. Rename this folder to whatever you want your project to be called (e.g., `my-awesome-website`).
         4.  Now, open this newly renamed folder directly in your AI-powered IDE.
 
 2.  **Tell Your AI What You Want!**:
@@ -66,7 +66,7 @@ No worries if you're not using an AI-powered coding assistant! You can still get
             ```bash
             git clone https://github.com/spikedelik/project_starter_kit.git your-new-project-name
             ```
-            *(Replace `https://github.com/spikedelik/project_starter_kit.git` with the actual link to this GitHub repository, and `your-new-project-name` with what you want to call your project folder.)*
+            *(Replace `your-new-project-name` with what you want to call your project folder.)*
         *   Then, navigate into your new project folder:
             ```bash
             cd your-new-project-name
@@ -75,7 +75,7 @@ No worries if you're not using an AI-powered coding assistant! You can still get
     *   **Download Files Manually**: If you prefer not to use Git, you can download all the files directly.
         1.  On this GitHub page, look for a green button that says `Code`.
         2.  Click on it, and then select `Download ZIP`.
-        3.  Once downloaded, unzip the file. You'll get a folder like `your-repo-name-main`. Rename this folder to whatever you want your project to be called (e.g., `my-awesome-website`).
+        3.  Once downloaded, unzip the file. You'll get a folder like `project_starter_kit-main`. Rename this folder to whatever you want your project to be called (e.g., `my-awesome-website`).
         4.  Open your computer's "command window" and go into that new folder.
 
 2.  **Get All the Pieces Ready**:
