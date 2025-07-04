@@ -31,7 +31,7 @@ If you're using an AI-powered coding assistant or IDE (like Cursor, VSCode with 
 Here's how to get started in just **2-3 simple steps**:
 
 1.  **Get the Code into Your AI Tool**:
-    *   **Option A (Easiest)**: In your AI-powered IDE, look for an option like "Clone Repository," "Open from GitHub," or "Start New Project from Template." Then, paste the link to this GitHub repository: `https://github.com/your-username/your-repo-name.git`
+    *   **Option A (Easiest)**: In your AI-powered IDE, look for an option like "Clone Repository," "Open from GitHub," or "Start New Project from Template." Then, paste the link to this GitHub repository: `https://github.com/spikedelik/project_starter_kit.git`
     *   **Option B (Manual Download)**: If your AI tool doesn't have a direct "clone" option, you can download the files manually:
         1.  On this GitHub page, look for a green button that says `Code`.
         2.  Click on it, and then select `Download ZIP`.
@@ -64,9 +64,9 @@ No worries if you're not using an AI-powered coding assistant! You can still get
         *   Open your computer's "command window."
         *   Type this command and press Enter:
             ```bash
-            git clone https://github.com/your-username/your-repo-name.git your-new-project-name
+            git clone https://github.com/spikedelik/project_starter_kit.git your-new-project-name
             ```
-            *(Replace `https://github.com/your-username/your-repo-name.git` with the actual link to this GitHub repository, and `your-new-project-name` with what you want to call your project folder.)*
+            *(Replace `https://github.com/spikedelik/project_starter_kit.git` with the actual link to this GitHub repository, and `your-new-project-name` with what you want to call your project folder.)*
         *   Then, navigate into your new project folder:
             ```bash
             cd your-new-project-name
